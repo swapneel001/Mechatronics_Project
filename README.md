@@ -17,5 +17,5 @@ The score is calculated with the use of an ultrasonic sensor, which detects chan
 
 ## A video demonstrating the game:
 
-https://user-images.githubusercontent.com/57823333/134794351-9af30ecf-632d-4160-a2b4-8d95fe1df163.MP4
+https://user-images.githubusercontent.com/57823333/134794405-bf468370-f05a-4d0d-a036-7de8418de3e3.mp4
 
