@@ -1,6 +1,6 @@
-# Robotics_Project
+# Mechatronics Project
 
-This repository contains the code for my Robotics group project.
+This repository contains the code for my Mechatronics group project.
 It is basically a football penalty game, where two players compete against each other.
 
 ## How to play: 
