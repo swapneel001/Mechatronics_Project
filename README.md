@@ -13,7 +13,8 @@ Both players control their actions with the use of joysticks. Player 1 uses one 
 
 ## Scoring: 
 
-The score is calculated with the use of an ultrasonic sensor, which detects changes in the distance from the surface in front of it. Once a goal is scored, the ball is fed down a funnel and lands in front of the ultrasonic sensor, causing a decrease in the distance measured by it and the score is incremented by 1. The Arduino then goes into a delay of 10 seconds so as to allow the players to reload the ball into the cannon.
+The score is calculated with the use of an ultrasonic sensor, which detects changes in the distance from the surface in front of it. Once a goal is scored, the ball is fed down a funnel and lands in front of the ultrasonic sensor, causing a decrease in the distance measured by it and the score is incremented by 1. The Arduino then goes into a delay of 10 seconds so as to allow the players to reload the ball into the cannon..
+
 
 ## A few videos demonstrating the game:
 
